@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/jeongdongha/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/jeongdongha/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jeongdongha/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/.externalNativeBuild/cmake/debug/x86_64\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/jeongdongha/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/.externalNativeBuild/cmake/debug/x86_64\" --target native-lib",
+      "abi": "x86_64",
+      "output": "/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so"
+    }
+  }
+}

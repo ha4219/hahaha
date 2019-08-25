@@ -1,0 +1,3 @@
+/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir

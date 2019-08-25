@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jeongdongha/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Release-arm64-v8a": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "/Users/jeongdongha/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/.externalNativeBuild/cmake/release/arm64-v8a --target opencv_jni_shared",
+      "abi": "arm64-v8a",
+      "output": "/Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/.externalNativeBuild/cmake/release/arm64-v8a/libopencv_jni_shared.a"
+    }
+  }
+}

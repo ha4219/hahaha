@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d90b01b21f436776699453850c1848a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/747cc7dd0bf7d2a2cbf9b7623bd71ab3/AndroidManifest.xml:2:1-11:12
+MERGED from [:opencv] /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/da59c952d572c2a5450848d2a61870a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/01e8226b6c272b1d78eed4cf84ba2d51/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e83bda4decb8802e4db05deb2e337ec8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d57f60df89e11c40b1b39bd7fbb6302f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/7e3fef1690928df2a53005fd55b52f50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/36cf65d8485bb39d610321aa9b417863/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/2f11e3a94cf8699ab8c1177d97929116/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/3ff89d128a1e39bf3b1cf9f1cb3b4431/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/51dd3c07e40afa5faedb9f0cc02efcd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/ad15c4bf505bb43545907c9ce168857b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/93dd1f85ce9d44762e1367f62ef1a9d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/857a4b0455c306e20f27ae6cdce7490c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/60c1960f74571ee0deeee89d9ed71f8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/709cfff6b10757611a47a97973d746d4/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/fd29f7e72d7b621a3e37e57877397c61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/9624f66db871b0c0d4101e115cfbd40e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/a09f4586d6a1fd0e47c43d3052f3b4ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/8ab018e537dc70861eeb572b4bc05398/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/bff57ebba2c9027ed3347d2f95eea9a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/5a8ce5afd63b9041f8a731a94c87da5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/6c3fca7c89391c6881d0e131193992d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e71dfac94af3ff26e1ba396f2d1e9027/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/4ae4ec1fba714af1aec9db3fcb71eac9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/daa6f67bf18027249922ca457e30aca8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:7:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:8:5-84
+	android:required
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:8:58-82
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:9:5-94
+	android:required
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:9:68-92
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:10:5-90
+	android:required
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:11:5-101
+	android:required
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:11:75-99
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:11:19-73
+supports-screens
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:13:5-17:37
+	android:largeScreens
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:16:9-36
+	android:smallScreens
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:15:9-37
+	android:resizeable
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:13:23-48
+	android:anyDensity
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:17:9-34
+application
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:18:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/747cc7dd0bf7d2a2cbf9b7623bd71ab3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/747cc7dd0bf7d2a2cbf9b7623bd71ab3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/709cfff6b10757611a47a97973d746d4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/709cfff6b10757611a47a97973d746d4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:26:13-50
+	android:configChanges
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d90b01b21f436776699453850c1848a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d90b01b21f436776699453850c1848a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/747cc7dd0bf7d2a2cbf9b7623bd71ab3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/747cc7dd0bf7d2a2cbf9b7623bd71ab3/AndroidManifest.xml:5:5-7:41
+MERGED from [:opencv] /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/da59c952d572c2a5450848d2a61870a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/da59c952d572c2a5450848d2a61870a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/01e8226b6c272b1d78eed4cf84ba2d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/01e8226b6c272b1d78eed4cf84ba2d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e83bda4decb8802e4db05deb2e337ec8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e83bda4decb8802e4db05deb2e337ec8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d57f60df89e11c40b1b39bd7fbb6302f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/d57f60df89e11c40b1b39bd7fbb6302f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/7e3fef1690928df2a53005fd55b52f50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/7e3fef1690928df2a53005fd55b52f50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/36cf65d8485bb39d610321aa9b417863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/36cf65d8485bb39d610321aa9b417863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/2f11e3a94cf8699ab8c1177d97929116/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/2f11e3a94cf8699ab8c1177d97929116/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/3ff89d128a1e39bf3b1cf9f1cb3b4431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/3ff89d128a1e39bf3b1cf9f1cb3b4431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/51dd3c07e40afa5faedb9f0cc02efcd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/51dd3c07e40afa5faedb9f0cc02efcd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/ad15c4bf505bb43545907c9ce168857b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/ad15c4bf505bb43545907c9ce168857b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/93dd1f85ce9d44762e1367f62ef1a9d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/93dd1f85ce9d44762e1367f62ef1a9d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/857a4b0455c306e20f27ae6cdce7490c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/857a4b0455c306e20f27ae6cdce7490c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/60c1960f74571ee0deeee89d9ed71f8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/60c1960f74571ee0deeee89d9ed71f8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/14d2e10a315552821e6f80e8061ec0ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/709cfff6b10757611a47a97973d746d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/709cfff6b10757611a47a97973d746d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/fd29f7e72d7b621a3e37e57877397c61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/fd29f7e72d7b621a3e37e57877397c61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/9624f66db871b0c0d4101e115cfbd40e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/9624f66db871b0c0d4101e115cfbd40e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/a09f4586d6a1fd0e47c43d3052f3b4ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/a09f4586d6a1fd0e47c43d3052f3b4ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/8ab018e537dc70861eeb572b4bc05398/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/8ab018e537dc70861eeb572b4bc05398/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/bff57ebba2c9027ed3347d2f95eea9a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/bff57ebba2c9027ed3347d2f95eea9a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/5a8ce5afd63b9041f8a731a94c87da5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/5a8ce5afd63b9041f8a731a94c87da5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/6c3fca7c89391c6881d0e131193992d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/6c3fca7c89391c6881d0e131193992d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e71dfac94af3ff26e1ba396f2d1e9027/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/e71dfac94af3ff26e1ba396f2d1e9027/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/4ae4ec1fba714af1aec9db3fcb71eac9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/4ae4ec1fba714af1aec9db3fcb71eac9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/daa6f67bf18027249922ca457e30aca8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeongdongha/.gradle/caches/transforms-2/files-2.1/daa6f67bf18027249922ca457e30aca8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeongdongha/code/soma/OpenCV-android-sdk/MyApplication/app/src/main/AndroidManifest.xml
