@@ -167,9 +167,10 @@ public class MainActivity extends AppCompatActivity
 
             matResult = new Mat(matInput.rows(), matInput.cols(), matInput.type());
 
+
         processing(matInput.getNativeObjAddr(), matResult.getNativeObjAddr());
 
-
+        matResult = matInput;
         return matResult;
     }
 

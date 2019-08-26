@@ -63,6 +63,8 @@ Java_com_example_myapplication_MainActivity_processing(JNIEnv *env, jobject inst
     pyramid_up(glasses);
     pyramid_up(mustache);
 
+    cvtColor(matInput, matInput, COLOR_RGBA2RGB);
+
     /*
      학습되지 않은 이미지를 합성하기 위해
      cv로 이미지를 읽어와서 dlib용 행렬로 변환
@@ -123,7 +125,8 @@ Java_com_example_myapplication_MainActivity_processing(JNIEnv *env, jobject inst
             }
         }
     }
-    cvtColor(toMat(img), matResult, COLOR_RGB2BGR);
+//    cvtColor(toMat(img), matResult, COLOR_RGB2BGR);
+    cvtColor(toMat(img), matResult, COLOR_RGB2RGBA);
 }
 
 extern "C"
